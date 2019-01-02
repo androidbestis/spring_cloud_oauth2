@@ -1,4 +1,4 @@
-Spring Cloud OAuth2 优雅集成登录认证
+﻿Spring Cloud OAuth2 优雅集成登录认证
 https://segmentfault.com/a/1190000016527822
 
 
@@ -19,3 +19,21 @@ username:root
 password:123456
 
 
+http://localhost:8080/oauth/token
+    client_id:client
+    client_secret:server
+    scope:all
+    grant_type:password
+    name:lxd
+    pwd:lxd
+
+http://localhost:8080/oauth/token
+    client_id:client
+    client_secret:server
+    scope:all
+    grant_type:password
+    name:lxd
+    pwd:lxd
+    auth_type:sms
+    mobile:15876345263
+    code:1234
