@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\dao\AbstractPreparableIntegrationAuthenticator.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\entity\UserPojo.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\service\IntegrationUserDetailsService.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\mapper\UserMapper.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\entity\IntegrationAuthenticationEntity.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\context\IntegrationAuthenticationContext.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\filter\IntegrationAuthenticationFilter.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\config\WebSecurityConfigurer.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\dao\IntegrationAuthenticator.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\config\AuthorizationServerConfigurer.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\GDSOauth2App.java
+C:\Users\Administrator\Desktop\sts\oauth2\src\main\java\com\adonai\oauth2\service\UsernamePasswordAuthenticator.java
