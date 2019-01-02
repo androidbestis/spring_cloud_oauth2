@@ -19,3 +19,21 @@ username:root
 password:123456
 
 
+http://localhost:8080/oauth/token
+    client_id:client
+    client_secret:server
+    scope:all
+    grant_type:password
+    name:lxd
+    pwd:lxd
+
+http://localhost:8080/oauth/token
+    client_id:client
+    client_secret:server
+    scope:all
+    grant_type:password
+    name:lxd
+    pwd:lxd
+    auth_type:sms
+    mobile:15876345263
+    code:1234
